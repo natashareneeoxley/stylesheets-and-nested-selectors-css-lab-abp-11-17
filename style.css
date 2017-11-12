@@ -12,7 +12,7 @@ header {
 header nav{
   float: right;
 }
-ul {
+nav ul {
   padding: 0;
   top margin: 40px;
   bottom,left,right margin: 0px;
